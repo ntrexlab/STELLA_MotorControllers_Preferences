@@ -1,5 +1,5 @@
 # STELLA_MotorControllers_Preferences
-STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 환경에서 UI를 통해 설정 값을 확인하시고 다른 것이 있다면 환경 설정 하기를 참고하셔서 변경하시기 바랍니다.
+STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 환경에서 UI를 통해 설정 값을 확인하시고 다른 것이 있다면 '환경 설정하기'를 참고하셔서 변경하시기 바랍니다.
 
 
 
@@ -39,7 +39,7 @@ STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 
 
 
 ***
-## **환경 설정 하기**
+## **환경 설정하기**
 #### 1.  Stella 프로파일 셋업 파일 다운로드 합니다.[설치경로-관련자료](https://github.com/ntrexlab/MOTOR_GAIN)
 #### 2. Mobile_UI를 실행 후 Scan Devices 버튼을 클릭합니다.
 ![md_1](https://user-images.githubusercontent.com/85467544/155093378-fb8caea4-ba94-4661-afa1-39a70140872f.png)
