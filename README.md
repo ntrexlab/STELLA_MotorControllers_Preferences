@@ -30,7 +30,7 @@ STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 
 ![md_1](https://user-images.githubusercontent.com/85467544/155093378-fb8caea4-ba94-4661-afa1-39a70140872f.png)
 #### 3. Configuration(1) 버튼을 클릭 후 Expand All(2) 버튼을 클릭합니다.
 ![md_2](https://user-images.githubusercontent.com/85467544/155093364-d2de820f-bbf8-4531-9d04-d0e76a1396b6.png)
-#### 4. Motor 1,2 Encoder 값을 확인한다. Stella N1 540000, Stella N2 60000 이면 정상 파라미터. 
+#### 4. Motor 1,2 Encoder Resoulution 값을 합니다. <정상값 : Stella N1 54000, Stella N2 60000>
 ![md_3](https://user-images.githubusercontent.com/85467544/155093371-2eeec8e1-e051-4307-966e-970e8029709e.png)
 #### 5. 이 후 모터 컨트톨러 페이지에서 Velocity 양수 입력시  모터에 + 선이 왼쪽에 있다고 가정 시 Channel 1은 시계 방향, Channel 2은 반시계 방향으로 작동 시 정상 5,6번 정상일 경우 . 
 ![md_4](https://user-images.githubusercontent.com/85467544/155253666-b0f1ea8a-c427-4024-9c2c-5add3deeff0b.png)
