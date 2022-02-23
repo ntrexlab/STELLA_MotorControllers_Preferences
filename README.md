@@ -1,5 +1,5 @@
 # STELLA_MotorControllers_Preferences
-STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 환경에서 UI를 통해 설정 값을 확인하셔야 됩니다.
+STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 환경에서 UI를 통해 설정 값을 확인하시고 다른 것이 있다면 환경 설정 하기를 참고하셔서 변경하시기 바
 
 
 
