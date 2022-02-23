@@ -46,7 +46,7 @@ STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 
 ![md_6](https://user-images.githubusercontent.com/85467544/155097164-e31b9f28-afeb-467c-83d6-8bb5773985a1.png)
 #### 4. 1번에서 다운로드 한 파일 선택합니다.
 ![md7](https://user-images.githubusercontent.com/85467544/155098265-26666617-030c-4b3a-bac2-8d101be4a481.png)
-#### 4. Motor 1,2 Encoder(1) 값을 확인한다. Stella N1 540000, Stella N2 60000 이면 정상 파라미터 Write Configurations(2) 클릭 후 Save to Flash(3) 클릭합니다.
+#### 4. Motor 1,2 Encoder(1) 값을 확인한다. Stella N1 54000, Stella N2 60000 이면 정상 파라미터 Write Configurations(2) 클릭 후 Save to Flash(3) 클릭합니다.
 ![md8](https://user-images.githubusercontent.com/85467544/155098273-3a764730-6c93-4ea1-b872-e092a39e71c9.png)
 
 ***
