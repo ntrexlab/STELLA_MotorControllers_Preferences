@@ -2,6 +2,7 @@
 STELLA 구동 시 Motor 센서 값 이상한 경우 윈도우 환경에서 UI를 통해 설정 값을 확인하셔야 됩니다.
 
 
+
 ***
 ## 1. 사용 하드웨어 및 Tool
  * #### 사용 하드웨어 
@@ -32,7 +33,9 @@ STELLA 구동 시 Motor 센서 값 이상한 경우 윈도우 환경에서 UI를
 #### 4. Motor 1,2 Encoder 값을 확인한다. Stella N1 540000, Stella N2 60000 이면 정상 파라미터. 
 ![md_3](https://user-images.githubusercontent.com/85467544/155093371-2eeec8e1-e051-4307-966e-970e8029709e.png)
 #### 5. 이 후 모터 컨트톨러 페이지에서 Velocity 양수 입력시  모터에 + 선이 왼쪽에 있다고 가정 시 Channel 1은 시계 방향, Channel 2은 반시계 방향으로 작동 시 정상 5,6번 정상일 경우 . 
-![100D](https://user-images.githubusercontent.com/85467544/155095051-51525e72-7359-49bc-a227-28df52078011.jpg)
+![md_4](https://user-images.githubusercontent.com/85467544/155253666-b0f1ea8a-c427-4024-9c2c-5add3deeff0b.png)
+![md9](https://user-images.githubusercontent.com/85467544/155253599-441deac9-4751-4d28-8d5c-b2874d195846.PNG)
+
 
 ***
 ## **환경 설정 하기**
