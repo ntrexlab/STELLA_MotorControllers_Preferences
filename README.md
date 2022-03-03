@@ -14,7 +14,7 @@ STELLA 구동 시 Motor 작동및 센서값이 비정상적인 경우 윈도우 
      - STELLAN1_배터리 -[KC인증 충전식 고용량 농업용 분무기 리튬이온배터리](https://www.weled.co.kr/goods/goods_view.php?goodsNo=1000034222)
     - STELLAN2_배터리 - [따로 판매하지 않는 상품]
 * #### 사용 Tool
-    - Mobile_Ui [설치경로-관련자료](https://www.devicemart.co.kr/goods/view?no=1077424#goods_file)
+    - Mobile_Ui -> [다운로드 경로](https://github.com/ntrexlab/MW_MotorControllers_Manual/blob/main/Mobile_UI.exe)</br>
 ***
 ## **모터와 모터드라이버 배선도**
 #### 1. 100D_배선도
